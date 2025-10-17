@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Orientation Day",
+    "date": "2025-10-25",
+    "capacity": 100,
+    "location": "Main Hall",
+    "description": "Welcome new students to campus! Join us for an exciting orientation day with campus tours, meeting faculty, and making new friends.",
+    "organizer": "john",
+    "attendees": []
+  },
+  {
+    "id": 2,
+    "name": "Tech Workshop",
+    "date": "2025-11-05",
+    "capacity": 50,
+    "location": "Computer Lab A",
+    "description": "Learn about the latest technologies in AI and Machine Learning. Hands-on workshop with industry experts.",
+    "organizer": "john",
+    "attendees": []
+  },
+  {
+    "id": 3,
+    "name": "Career Fair",
+    "date": "2025-11-15",
+    "capacity": 200,
+    "location": "Sports Complex",
+    "description": "Meet with top companies and explore career opportunities. Bring your resume!",
+    "organizer": "admin",
+    "attendees": []
+  }
+]
