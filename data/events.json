@@ -7,7 +7,9 @@
     "location": "Main Hall",
     "description": "Welcome new students to campus! Join us for an exciting orientation day with campus tours, meeting faculty, and making new friends.",
     "organizer": "john",
-    "attendees": []
+    "attendees": [
+      "mike"
+    ]
   },
   {
     "id": 2,
@@ -28,5 +30,17 @@
     "description": "Meet with top companies and explore career opportunities. Bring your resume!",
     "organizer": "admin",
     "attendees": []
+  },
+  {
+    "id": 4,
+    "name": "TECH AI DAY",
+    "date": "2025-12-20",
+    "capacity": 150,
+    "location": "LandMark81",
+    "description": "",
+    "organizer": "admin",
+    "attendees": [
+      "mike"
+    ]
   }
 ]

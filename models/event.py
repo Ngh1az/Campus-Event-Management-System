@@ -1,9 +1,7 @@
 """
 Event Model - Represents campus events
 """
-
 from datetime import datetime
-
 
 class Event:
     def __init__(

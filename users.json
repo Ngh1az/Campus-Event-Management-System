@@ -29,6 +29,9 @@
     "role": "Student",
     "email": "mike@campus.edu",
     "full_name": "Mike Brown",
-    "registered_events": []
+    "registered_events": [
+      1,
+      4
+    ]
   }
 ]

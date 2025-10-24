@@ -1,8 +1,6 @@
 """
 User Model - Represents users with different roles
 """
-
-
 class User:
     def __init__(self, username, password, role, email=None, full_name=None):
         self.username = username
